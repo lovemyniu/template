@@ -1,0 +1,22 @@
+body {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  display: -webkit-flex;
+  flex-direction: column;
+  font-size: 0.12rem; }
+  body header {
+    height: 0.4rem;
+    line-height: 0.4rem;
+    background: orange; }
+  body section {
+    -webkit-flex: 1;
+    overflow-y: scroll;
+    background: #dec; }
+  body footer {
+    height: 0.4rem;
+    line-height: 0.4rem;
+    background: darkred; }
+
+/*# sourceMappingURL=style.css.map */
